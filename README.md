@@ -17,3 +17,11 @@ and fuzzel
 
 
 # Gallery
+
+![](/assets/cava-fastfetch-vim.png)  
+
+![](assets/launchmenu.png)  
+
+![](/assets/btop.png)  
+
+![](/assets/btop-ysflight-ce.png)  
